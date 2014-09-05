@@ -1,0 +1,21 @@
+<?php
+// Important! Before editing these language files please read the text at the top of index.english.php.
+// Don't forget to set the language file to UTF-8 format (without signature) before saving it.
+
+$txt['uot'] = 'gebruikers vandaag online';
+$txt['uot_type'] = 'Wat mogen gebruikers zien';
+$txt['uot_today'] = 'gebruikers vandaag ingelogd (gebaseerd op de servertijd)';
+$txt['uot_24h'] = 'gebruikers ingelogd de afgelopen 24 uur';
+$txt['uot_7d'] = 'gebruikers ingelogd de afgelopen 7 dagen';
+
+$txt['uot_whoview'] = 'Wie kan de gebruiker online lijst bekijken';
+$txt['uot_whoview_any'] = 'Iedereen';
+$txt['uot_whoview_members'] = 'Iedereen die is ingelogd op het forum';
+$txt['uot_whoview_staff'] = 'Beheerders en moderators';
+$txt['uot_whoview_admin'] = 'Alleen beheerders';
+
+$txt['uot_order'] = 'hoe moeten gebruikers die online zijn worden onderverdeeld';
+$txt['uot_order_name_asc'] = 'Met naam, A-Z';
+$txt['uot_order_name_desc'] = 'Met naam, Z-A';
+$txt['uot_order_time_asc'] = 'Door laatste keer online,vroegste eerst';
+$txt['uot_order_time_desc'] = 'Door laatste keer online,laatste eerst';
