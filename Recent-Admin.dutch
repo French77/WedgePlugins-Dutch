@@ -1,0 +1,8 @@
+<?php
+
+$txt['recent_items'] = 'Recente onderwerpen';
+$txt['recentitems_show'] = 'Hoeveel onderwerpen laten zien?';
+$txt['recentitems_posttopic'] = 'Welke soorten onderwerpen weergeven?';
+$txt['recentitems_as_post'] = 'De meest recente geupdate berichten';
+$txt['recentitems_as_topic'] = 'De meest recente geupdate onderwerpen';
+$txt['recentitems_sidebar_infocenter'] = 'Geef de recente onderwerpen weer in het info-center?';
