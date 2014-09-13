@@ -1,0 +1,4 @@
+<?php
+
+$txt['recent_items_post'] = 'Recente Berichten';
+$txt['recent_items_topic'] = 'Recente Onderwerpen';
