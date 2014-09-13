@@ -1,0 +1,4 @@
+<?php
+
+$txt['skin_selector'] = 'Skin selectie';
+$txt['skin_overall_default'] = '(standaard)';
