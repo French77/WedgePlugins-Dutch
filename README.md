@@ -1,3 +1,3 @@
 WedgePlugin-Dutch
 =================
-Wedge plugins Nedrelandse vertaling
+Wedge plugins Nederlandse vertaling
