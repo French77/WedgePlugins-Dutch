@@ -1,4 +1,6 @@
 WedgePlugin-Dutch
 =================
 Wedge plugins Nederlandse vertaling
-link naar alle beschikbare plugins https://github.com/Wedge/plugins
+
+![](https://img.shields.io/badge/Contributie-Welkom-brightgreen.svg)
+[![Download](https://img.shields.io/badge/download-WedgePlugins-brightgreen.svg)](https://github.com/Wedge/plugins)
